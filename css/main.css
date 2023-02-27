@@ -134,6 +134,7 @@ header nav ul li a {
 	width: 100%;
 	border-left: 5px solid #EEE;
 	border-right: 5px solid #EEE;
+	padding: 0px 15px;
 }
 
 .section-three {
@@ -170,10 +171,10 @@ footer span {
 	color: #45610E;
 	font-size: 0.875em;
 }
-@media all and (min-width:768px) {
-	/****** TABLET STYLES HERE ******/
-	
+/****** TABLET STYLES HERE ******/
 
+@media all and (min-width:768px) {
+	
 	.bottom-section .content-wrapper {
 
 		justify-content: space-evenly;
